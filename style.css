@@ -22,7 +22,6 @@ html,body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    /*background-color: red;*/
 }
 #nav img {
     height: 80px;
@@ -46,33 +45,15 @@ html,body {
     font-size: 22px;
     font-weight: 500;
 }
-/*#content {
-    width: 100%;
-    height: 85%;
-    background-color: yellow;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-#content #left {
-    background-color: red;
-    width: 30%;
-    height: 85%;
-    position: absolute;
-    top: 50%;
-    right: 65%;
-}*/
 #content {
     width: 100%;
     height: 92%;
-    /*background-color: yellow;*/
     position: relative;
     display: flex;
 }
 #left {
     height: 100%;
     width: 35%;
-    /*background-color: green;*/
     padding: 70px 118px;
 }
 #left h5 {
@@ -100,7 +81,6 @@ html,body {
 #right {
     height: 100%;
     width: 65%;
-    /*background-color: pink;*/
     position: relative;
     padding: 90px;
     white-space: nowrap;
